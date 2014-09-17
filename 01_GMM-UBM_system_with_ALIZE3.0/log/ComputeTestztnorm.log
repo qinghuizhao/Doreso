@@ -1,0 +1,6 @@
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+(SegTools)  Error: For xaaf[data/lbl/xaaf.lbl]
+[ Exception 0x951c548 ]
+  message   = "There is no correspondent label file"
+  source file = SegTools.cpp
+  line number = 251

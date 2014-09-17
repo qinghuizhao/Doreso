@@ -1,0 +1,122 @@
+TrainTarget - Load world model [world]
+Use[world] for initializing EM
+Train model [romantic]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[167058] Selected frames[167058] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.5222
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [romantic]
+Train model [classical]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[161246] Selected frames[161246] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.8391
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [classical]
+Train model [electronica]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[197186] Selected frames[197186] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.2806
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [electronica]
+Train model [country]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[154940] Selected frames[154940] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.9155
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [country]
+Train model [jazz]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[194846] Selected frames[194846] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.1106
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [jazz]
+Train model [metal]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[186615] Selected frames[186615] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.3939
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [metal]
+Train model [rap]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[184314] Selected frames[184314] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.8482
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [rap]
+Train model [rock]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[159684] Selected frames[159684] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.1205
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [rock]
+Train model [baroque]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[182706] Selected frames[182706] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -69.1383
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [baroque]
+Train model [blues]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[145652] Selected frames[145652] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.6769
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [blues]

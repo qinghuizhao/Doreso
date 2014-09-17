@@ -1,0 +1,8 @@
+TrainTarget - Load world model [world]
+Use[world] for initializing EM
+Train model [xaaf]
+[ FileNotFoundException 0x967ebc0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/xaaf.norm.prm

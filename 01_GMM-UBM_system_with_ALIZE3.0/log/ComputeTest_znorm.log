@@ -1,0 +1,476 @@
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[rock.00046], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[rock.00046]
+test seg[reggae.00086]
+test seg[hiphop.00030]
+test seg[classical.00041]
+Warning File[pop.00002], Truncate Segment begin:2992 length:8 file size:2999 new length:7
+test seg[pop.00002]
+Warning File[hiphop.00087], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[hiphop.00087]
+Warning File[reggae.00053], Truncate Segment begin:2970 length:30 file size:2999 new length:29
+test seg[reggae.00053]
+Warning File[disco.00023], Truncate Segment begin:2972 length:29 file size:3000 new length:28
+test seg[disco.00023]
+test seg[disco.00060]
+test seg[country.00087]
+Warning File[country.00078], Truncate Segment begin:2621 length:380 file size:3000 new length:379
+test seg[country.00078]
+Warning File[rock.00010], Truncate Segment begin:2860 length:141 file size:3000 new length:140
+test seg[rock.00010]
+Warning File[hiphop.00050], Truncate Segment begin:2970 length:31 file size:3000 new length:30
+test seg[hiphop.00050]
+Warning File[pop.00077], Truncate Segment begin:2933 length:67 file size:2999 new length:66
+test seg[pop.00077]
+Warning File[metal.00059], Truncate Segment begin:2969 length:32 file size:3000 new length:31
+test seg[metal.00059]
+test seg[blues.00059]
+test seg[metal.00086]
+Warning File[disco.00026], Truncate Segment begin:2988 length:13 file size:3000 new length:12
+test seg[disco.00026]
+Warning File[hiphop.00020], Truncate Segment begin:2947 length:54 file size:3000 new length:53
+test seg[hiphop.00020]
+Warning File[hiphop.00005], Truncate Segment begin:2986 length:14 file size:2999 new length:13
+test seg[hiphop.00005]
+Warning File[jazz.00089], Truncate Segment begin:2723 length:278 file size:3000 new length:277
+test seg[jazz.00089]
+test seg[classical.00072]
+test seg[reggae.00049]
+test seg[metal.00053]
+Warning File[reggae.00083], Truncate Segment begin:2987 length:13 file size:2999 new length:12
+test seg[reggae.00083]
+Warning File[classical.00035], Truncate Segment begin:2895 length:106 file size:3000 new length:105
+test seg[classical.00035]
+test seg[blues.00012]
+Warning File[rock.00041], Truncate Segment begin:2984 length:17 file size:3000 new length:16
+test seg[rock.00041]
+Warning File[pop.00033], Truncate Segment begin:2965 length:35 file size:2999 new length:34
+test seg[pop.00033]
+Warning File[hiphop.00081], Truncate Segment begin:2980 length:21 file size:3000 new length:20
+test seg[hiphop.00081]
+test seg[metal.00095]
+test seg[disco.00024]
+Warning File[pop.00008], Truncate Segment begin:2950 length:50 file size:2999 new length:49
+test seg[pop.00008]
+Warning File[pop.00048], Truncate Segment begin:2976 length:24 file size:2999 new length:23
+test seg[pop.00048]
+test seg[hiphop.00054]
+test seg[country.00021]
+Warning File[jazz.00051], Truncate Segment begin:2978 length:23 file size:3000 new length:22
+test seg[jazz.00051]
+Warning File[hiphop.00018], Truncate Segment begin:2980 length:21 file size:3000 new length:20
+test seg[hiphop.00018]
+Warning File[rock.00059], Truncate Segment begin:2983 length:18 file size:3000 new length:17
+test seg[rock.00059]
+Warning File[jazz.00063], Truncate Segment begin:3025 length:10 file size:3034 new length:9
+test seg[jazz.00063]
+Warning File[country.00085], Truncate Segment begin:2985 length:16 file size:3000 new length:15
+test seg[country.00085]
+test seg[metal.00063]
+test seg[classical.00061]
+Warning File[rock.00084], Truncate Segment begin:2975 length:26 file size:3000 new length:25
+test seg[rock.00084]
+Warning File[disco.00019], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[disco.00019]
+Warning File[metal.00087], Truncate Segment begin:2996 length:4 file size:2999 new length:3
+test seg[metal.00087]
+Warning File[country.00041], Truncate Segment begin:2941 length:60 file size:3000 new length:59
+test seg[country.00041]
+test seg[classical.00015]
+test seg[reggae.00000]
+Warning File[disco.00063], Truncate Segment begin:2998 length:2 file size:2999 new length:1
+test seg[disco.00063]
+test seg[pop.00063]
+Warning File[country.00004], Truncate Segment begin:2996 length:4 file size:2999 new length:3
+test seg[country.00004]
+test seg[hiphop.00038]
+Warning File[classical.00088], Truncate Segment begin:2710 length:291 file size:3000 new length:290
+test seg[classical.00088]
+Warning File[rock.00099], Truncate Segment begin:2930 length:71 file size:3000 new length:70
+test seg[rock.00099]
+test seg[metal.00003]
+test seg[disco.00078]
+Warning File[metal.00080], Truncate Segment begin:2924 length:76 file size:2999 new length:75
+test seg[metal.00080]
+Warning File[classical.00007], Truncate Segment begin:2934 length:67 file size:3000 new length:66
+test seg[classical.00007]
+Warning File[disco.00033], Truncate Segment begin:2963 length:38 file size:3000 new length:37
+test seg[disco.00033]
+Warning File[rock.00049], Truncate Segment begin:2957 length:44 file size:3000 new length:43
+test seg[rock.00049]
+Warning File[country.00039], Truncate Segment begin:2993 length:8 file size:3000 new length:7
+test seg[country.00039]
+Warning File[disco.00095], Truncate Segment begin:2995 length:5 file size:2999 new length:4
+test seg[disco.00095]
+test seg[blues.00093]
+test seg[disco.00032]
+Warning File[hiphop.00053], Truncate Segment begin:2990 length:11 file size:3000 new length:10
+test seg[hiphop.00053]
+test seg[country.00065]
+test seg[hiphop.00016]
+Warning File[disco.00077], Truncate Segment begin:2849 length:151 file size:2999 new length:150
+test seg[disco.00077]
+Warning File[pop.00071], Truncate Segment begin:2968 length:32 file size:2999 new length:31
+test seg[pop.00071]
+test seg[disco.00069]
+Warning File[country.00055], Truncate Segment begin:2934 length:67 file size:3000 new length:66
+test seg[country.00055]
+test seg[country.00018]
+test seg[jazz.00066]
+Warning File[hiphop.00034], Truncate Segment begin:3026 length:2 file size:3027 new length:1
+test seg[hiphop.00034]
+Warning File[jazz.00070], Truncate Segment begin:2990 length:11 file size:3000 new length:10
+test seg[jazz.00070]
+Warning File[disco.00080], Truncate Segment begin:2993 length:7 file size:2999 new length:6
+test seg[disco.00080]
+Warning File[rock.00030], Truncate Segment begin:2993 length:8 file size:3000 new length:7
+test seg[rock.00030]
+test seg[pop.00058]
+test seg[country.00067]
+Warning File[pop.00096], Truncate Segment begin:2852 length:148 file size:2999 new length:147
+test seg[pop.00096]
+Warning File[metal.00011], Truncate Segment begin:2958 length:42 file size:2999 new length:41
+test seg[metal.00011]
+test seg[pop.00060]
+Warning File[classical.00065], Truncate Segment begin:2899 length:102 file size:3000 new length:101
+test seg[classical.00065]
+Warning File[pop.00076], Truncate Segment begin:2980 length:20 file size:2999 new length:19
+test seg[pop.00076]
+test seg[jazz.00030]
+test seg[pop.00062]
+Warning File[jazz.00075], Truncate Segment begin:2996 length:5 file size:3000 new length:4
+test seg[jazz.00075]
+Warning File[pop.00050], Truncate Segment begin:2977 length:23 file size:2999 new length:22
+test seg[pop.00050]
+test seg[hiphop.00066]
+Warning File[disco.00093], Truncate Segment begin:2996 length:4 file size:2999 new length:3
+test seg[disco.00093]
+test seg[jazz.00094]
+test seg[disco.00098]
+Warning File[rock.00063], Truncate Segment begin:2960 length:41 file size:3000 new length:40
+test seg[rock.00063]
+Warning File[disco.00082], Truncate Segment begin:2949 length:51 file size:2999 new length:50
+test seg[disco.00082]
+Warning File[metal.00064], Truncate Segment begin:2959 length:42 file size:3000 new length:41
+test seg[metal.00064]
+test seg[jazz.00008]
+Warning File[hiphop.00035], Truncate Segment begin:3019 length:11 file size:3029 new length:10
+test seg[hiphop.00035]
+Warning File[metal.00013], Truncate Segment begin:2862 length:138 file size:2999 new length:137
+test seg[metal.00013]
+Warning File[hiphop.00064], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[hiphop.00064]
+test seg[pop.00088]
+test seg[jazz.00054]
+Warning File[rock.00028], Truncate Segment begin:2989 length:12 file size:3000 new length:11
+test seg[rock.00028]
+Warning File[rock.00029], Truncate Segment begin:2967 length:34 file size:3000 new length:33
+test seg[rock.00029]
+Warning File[metal.00088], Truncate Segment begin:2988 length:12 file size:2999 new length:11
+test seg[metal.00088]
+test seg[jazz.00009]
+Warning File[jazz.00015], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[jazz.00015]
+Warning File[pop.00061], Truncate Segment begin:2994 length:6 file size:2999 new length:5
+test seg[pop.00061]
+Warning File[rock.00050], Truncate Segment begin:2998 length:3 file size:3000 new length:2
+test seg[rock.00050]
+test seg[hiphop.00069]
+Warning File[blues.00092], Truncate Segment begin:2904 length:97 file size:3000 new length:96
+test seg[blues.00092]
+test seg[pop.00038]
+Warning File[country.00002], Truncate Segment begin:2998 length:39 file size:3036 new length:38
+test seg[country.00002]
+test seg[reggae.00003]
+test seg[rock.00091]
+test seg[jazz.00099]
+Warning File[country.00010], Truncate Segment begin:2888 length:113 file size:3000 new length:112
+test seg[country.00010]
+test seg[metal.00027]
+Warning File[rock.00009], Truncate Segment begin:2976 length:25 file size:3000 new length:24
+test seg[rock.00009]
+test seg[classical.00042]
+test seg[jazz.00055]
+test seg[pop.00004]
+Warning File[hiphop.00048], Truncate Segment begin:2981 length:20 file size:3000 new length:19
+test seg[hiphop.00048]
+Warning File[rock.00066], Truncate Segment begin:2962 length:39 file size:3000 new length:38
+test seg[rock.00066]
+test seg[rock.00021]
+test seg[disco.00039]
+Warning File[classical.00024], Truncate Segment begin:2981 length:20 file size:3000 new length:19
+test seg[classical.00024]
+Warning File[disco.00057], Truncate Segment begin:2996 length:4 file size:2999 new length:3
+test seg[disco.00057]
+test seg[rock.00018]
+test seg[classical.00052]
+Warning File[country.00084], Truncate Segment begin:2967 length:34 file size:3000 new length:33
+test seg[country.00084]
+test seg[reggae.00062]
+test seg[pop.00053]
+Warning File[classical.00067], Truncate Segment begin:2354 length:647 file size:3000 new length:646
+test seg[classical.00067]
+test seg[pop.00090]
+Warning File[classical.00056], Truncate Segment begin:3003 length:4 file size:3006 new length:3
+test seg[classical.00056]
+test seg[reggae.00016]
+Warning File[blues.00001], Truncate Segment begin:2959 length:42 file size:3000 new length:41
+test seg[blues.00001]
+test seg[classical.00030]
+Warning File[metal.00005], Truncate Segment begin:2995 length:5 file size:2999 new length:4
+test seg[metal.00005]
+Warning File[jazz.00050], Truncate Segment begin:2979 length:56 file size:3034 new length:55
+test seg[jazz.00050]
+Warning File[metal.00022], Truncate Segment begin:2993 length:7 file size:2999 new length:6
+test seg[metal.00022]
+test seg[rock.00076]
+Warning File[disco.00096], Truncate Segment begin:2995 length:5 file size:2999 new length:4
+test seg[disco.00096]
+Warning File[blues.00020], Truncate Segment begin:2906 length:95 file size:3000 new length:94
+test seg[blues.00020]
+test seg[country.00093]
+Warning File[rock.00088], Truncate Segment begin:2990 length:11 file size:3000 new length:10
+test seg[rock.00088]
+Warning File[rock.00036], Truncate Segment begin:3024 length:5 file size:3028 new length:4
+test seg[rock.00036]
+Warning File[disco.00006], Truncate Segment begin:2994 length:7 file size:3000 new length:6
+test seg[disco.00006]
+Warning File[disco.00015], Truncate Segment begin:2979 length:22 file size:3000 new length:21
+test seg[disco.00015]
+Warning File[reggae.00014], Truncate Segment begin:2999 length:2 file size:3000 new length:1
+test seg[reggae.00014]
+test seg[classical.00044]
+test seg[classical.00013]
+test seg[disco.00079]
+Warning File[blues.00081], Truncate Segment begin:2980 length:21 file size:3000 new length:20
+test seg[blues.00081]
+test seg[jazz.00040]
+Warning File[disco.00073], Truncate Segment begin:2971 length:29 file size:2999 new length:28
+test seg[disco.00073]
+Warning File[blues.00006], Truncate Segment begin:2989 length:12 file size:3000 new length:11
+test seg[blues.00006]
+test seg[jazz.00096]
+test seg[metal.00092]
+Warning File[hiphop.00051], Truncate Segment begin:2961 length:40 file size:3000 new length:39
+test seg[hiphop.00051]
+Warning File[metal.00094], Truncate Segment begin:2998 length:2 file size:2999 new length:1
+test seg[metal.00094]
+Warning File[country.00011], Truncate Segment begin:2981 length:20 file size:3000 new length:19
+test seg[country.00011]
+Warning File[blues.00047], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[blues.00047]
+Warning File[classical.00026], Truncate Segment begin:2935 length:66 file size:3000 new length:65
+test seg[classical.00026]
+Warning File[metal.00058], Truncate Segment begin:2968 length:33 file size:3000 new length:32
+test seg[metal.00058]
+test seg[hiphop.00047]
+test seg[disco.00042]
+test seg[reggae.00029]
+Warning File[blues.00014], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[blues.00014]
+Warning File[disco.00076], Truncate Segment begin:2994 length:6 file size:2999 new length:5
+test seg[disco.00076]
+Warning File[classical.00032], Truncate Segment begin:2996 length:5 file size:3000 new length:4
+test seg[classical.00032]
+test seg[blues.00076]
+Warning File[hiphop.00073], Truncate Segment begin:2984 length:17 file size:3000 new length:16
+test seg[hiphop.00073]
+Warning File[blues.00068], Truncate Segment begin:2985 length:16 file size:3000 new length:15
+test seg[blues.00068]
+test seg[blues.00035]
+Warning File[pop.00034], Truncate Segment begin:2964 length:36 file size:2999 new length:35
+test seg[pop.00034]
+Warning File[rock.00087], Truncate Segment begin:2993 length:8 file size:3000 new length:7
+test seg[rock.00087]
+Warning File[rock.00014], Truncate Segment begin:2974 length:27 file size:3000 new length:26
+test seg[rock.00014]
+test seg[reggae.00060]
+Warning File[reggae.00059], Truncate Segment begin:2979 length:21 file size:2999 new length:20
+test seg[reggae.00059]
+test seg[jazz.00011]
+test seg[blues.00021]
+test seg[reggae.00022]
+test seg[hiphop.00068]
+test seg[blues.00019]
+test seg[pop.00024]
+Warning File[disco.00041], Truncate Segment begin:2888 length:113 file size:3000 new length:112
+test seg[disco.00041]
+Warning File[country.00040], Truncate Segment begin:2999 length:2 file size:3000 new length:1
+test seg[country.00040]
+Warning File[pop.00030], Truncate Segment begin:2994 length:6 file size:2999 new length:5
+test seg[pop.00030]
+Warning File[disco.00054], Truncate Segment begin:2983 length:17 file size:2999 new length:16
+test seg[disco.00054]
+test seg[reggae.00095]
+Warning File[rock.00003], Truncate Segment begin:2923 length:78 file size:3000 new length:77
+test seg[rock.00003]
+Warning File[reggae.00055], Truncate Segment begin:2899 length:101 file size:2999 new length:100
+test seg[reggae.00055]
+test seg[country.00062]
+Warning File[jazz.00047], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[jazz.00047]
+test seg[metal.00071]
+Warning File[pop.00003], Truncate Segment begin:2941 length:59 file size:2999 new length:58
+test seg[pop.00003]
+Warning File[jazz.00034], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[jazz.00034]
+Warning File[reggae.00025], Truncate Segment begin:2961 length:40 file size:3000 new length:39
+test seg[reggae.00025]
+test seg[blues.00041]
+Warning File[jazz.00037], Truncate Segment begin:2859 length:142 file size:3000 new length:141
+test seg[jazz.00037]
+test seg[country.00060]
+Warning File[metal.00016], Truncate Segment begin:2998 length:2 file size:2999 new length:1
+test seg[metal.00016]
+Warning File[disco.00036], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[disco.00036]
+Warning File[reggae.00026], Truncate Segment begin:2977 length:24 file size:3000 new length:23
+test seg[reggae.00026]
+test seg[metal.00041]
+Warning File[jazz.00005], Truncate Segment begin:2964 length:37 file size:3000 new length:36
+test seg[jazz.00005]
+Warning File[classical.00099], Truncate Segment begin:2886 length:115 file size:3000 new length:114
+test seg[classical.00099]
+test seg[disco.00030]
+Warning File[rock.00038], Truncate Segment begin:2962 length:38 file size:2999 new length:37
+test seg[rock.00038]
+Warning File[metal.00020], Truncate Segment begin:2735 length:265 file size:2999 new length:264
+test seg[metal.00020]
+test seg[country.00056]
+Warning File[disco.00002], Truncate Segment begin:2997 length:4 file size:3000 new length:3
+test seg[disco.00002]
+test seg[blues.00022]
+test seg[reggae.00005]
+Warning File[classical.00064], Truncate Segment begin:2993 length:8 file size:3000 new length:7
+test seg[classical.00064]
+test seg[metal.00040]
+test seg[disco.00052]
+Warning File[metal.00079], Truncate Segment begin:2994 length:6 file size:2999 new length:5
+test seg[metal.00079]
+test seg[disco.00003]
+test seg[country.00009]
+test seg[jazz.00039]
+test seg[blues.00051]
+test seg[pop.00081]
+Warning File[blues.00008], Truncate Segment begin:2995 length:6 file size:3000 new length:5
+test seg[blues.00008]
+Warning File[rock.00067], Truncate Segment begin:2991 length:10 file size:3000 new length:9
+test seg[rock.00067]
+Warning File[pop.00098], Truncate Segment begin:2976 length:24 file size:2999 new length:23
+test seg[pop.00098]
+test seg[disco.00085]
+Warning File[blues.00097], Truncate Segment begin:2968 length:33 file size:3000 new length:32
+test seg[blues.00097]
+test seg[disco.00059]
+Warning File[country.00023], Truncate Segment begin:2894 length:107 file size:3000 new length:106
+test seg[country.00023]
+Warning File[reggae.00008], Truncate Segment begin:2983 length:18 file size:3000 new length:17
+test seg[reggae.00008]
+Warning File[country.00000], Truncate Segment begin:2999 length:9 file size:3007 new length:8
+test seg[country.00000]
+test seg[disco.00034]
+Warning File[metal.00085], Truncate Segment begin:2990 length:10 file size:2999 new length:9
+test seg[metal.00085]
+test seg[classical.00086]
+Warning File[blues.00054], Truncate Segment begin:2965 length:36 file size:3000 new length:35
+test seg[blues.00054]
+test seg[reggae.00010]
+Warning File[classical.00050], Truncate Segment begin:2629 length:372 file size:3000 new length:371
+test seg[classical.00050]
+test seg[country.00064]
+test seg[jazz.00062]
+Warning File[rock.00071], Truncate Segment begin:2992 length:9 file size:3000 new length:8
+test seg[rock.00071]
+Warning File[blues.00062], Truncate Segment begin:2997 length:4 file size:3000 new length:3
+test seg[blues.00062]
+Warning File[pop.00042], Truncate Segment begin:2943 length:57 file size:2999 new length:56
+test seg[pop.00042]
+Warning File[disco.00066], Truncate Segment begin:2966 length:34 file size:2999 new length:33
+test seg[disco.00066]
+Warning File[pop.00025], Truncate Segment begin:2942 length:58 file size:2999 new length:57
+test seg[pop.00025]
+Warning File[jazz.00007], Truncate Segment begin:2948 length:53 file size:3000 new length:52
+test seg[jazz.00007]
+Warning File[pop.00066], Truncate Segment begin:2995 length:5 file size:2999 new length:4
+test seg[pop.00066]
+Warning File[rock.00037], Truncate Segment begin:2971 length:30 file size:3000 new length:29
+test seg[rock.00037]
+test seg[disco.00017]
+Warning File[hiphop.00003], Truncate Segment begin:2983 length:17 file size:2999 new length:16
+test seg[hiphop.00003]
+Warning File[blues.00056], Truncate Segment begin:2997 length:4 file size:3000 new length:3
+test seg[blues.00056]
+Warning File[rock.00040], Truncate Segment begin:2986 length:15 file size:3000 new length:14
+test seg[rock.00040]
+Warning File[pop.00036], Truncate Segment begin:2994 length:6 file size:2999 new length:5
+test seg[pop.00036]
+Warning File[rock.00034], Truncate Segment begin:3016 length:20 file size:3035 new length:19
+test seg[rock.00034]
+Warning File[country.00091], Truncate Segment begin:2962 length:39 file size:3000 new length:38
+test seg[country.00091]
+test seg[blues.00055]
+test seg[rock.00026]
+Warning File[reggae.00088], Truncate Segment begin:2957 length:43 file size:2999 new length:42
+test seg[reggae.00088]
+Warning File[disco.00094], Truncate Segment begin:2904 length:96 file size:2999 new length:95
+test seg[disco.00094]
+test seg[pop.00054]
+Warning File[classical.00014], Truncate Segment begin:2998 length:3 file size:3000 new length:2
+test seg[classical.00014]
+Warning File[hiphop.00017], Truncate Segment begin:2954 length:47 file size:3000 new length:46
+test seg[hiphop.00017]
+Warning File[classical.00081], Truncate Segment begin:2673 length:328 file size:3000 new length:327
+test seg[classical.00081]
+test seg[disco.00062]
+Warning File[metal.00004], Truncate Segment begin:2983 length:17 file size:2999 new length:16
+test seg[metal.00004]
+test seg[rock.00098]
+test seg[rock.00079]
+test seg[disco.00061]
+test seg[jazz.00003]
+Warning File[pop.00045], Truncate Segment begin:2968 length:32 file size:2999 new length:31
+test seg[pop.00045]
+test seg[classical.00076]
+Warning File[metal.00099], Truncate Segment begin:2922 length:79 file size:3000 new length:78
+test seg[metal.00099]
+test seg[classical.00000]
+Warning File[rock.00032], Truncate Segment begin:3038 length:2 file size:3039 new length:1
+test seg[rock.00032]
+Warning File[country.00022], Truncate Segment begin:2999 length:2 file size:3000 new length:1
+test seg[country.00022]
+Warning File[hiphop.00079], Truncate Segment begin:2989 length:11 file size:2999 new length:10
+test seg[hiphop.00079]
+Warning File[disco.00011], Truncate Segment begin:2913 length:88 file size:3000 new length:87
+test seg[disco.00011]
+Warning File[metal.00036], Truncate Segment begin:2953 length:47 file size:2999 new length:46
+test seg[metal.00036]
+test seg[pop.00079]
+test seg[classical.00027]
+test seg[rock.00008]
+Warning File[blues.00018], Truncate Segment begin:2962 length:39 file size:3000 new length:38
+test seg[blues.00018]
+Warning File[disco.00035], Truncate Segment begin:2980 length:21 file size:3000 new length:20
+test seg[disco.00035]
+Warning File[country.00037], Truncate Segment begin:2858 length:143 file size:3000 new length:142
+test seg[country.00037]
+test seg[disco.00051]
+Warning File[blues.00058], Truncate Segment begin:2999 length:2 file size:3000 new length:1
+test seg[blues.00058]
+test seg[classical.00012]
+Warning File[metal.00015], Truncate Segment begin:2996 length:4 file size:2999 new length:3
+test seg[metal.00015]
+test seg[rock.00025]
+Warning File[hiphop.00098], Truncate Segment begin:2997 length:4 file size:3000 new length:3
+test seg[hiphop.00098]
+Warning File[pop.00039], Truncate Segment begin:2948 length:52 file size:2999 new length:51
+test seg[pop.00039]
+test seg[hiphop.00099]
+Warning File[rock.00020], Truncate Segment begin:2987 length:14 file size:3000 new length:13
+test seg[rock.00020]
+test seg[blues.00036]
+Warning File[pop.00059], Truncate Segment begin:2967 length:33 file size:2999 new length:32
+test seg[pop.00059]
+test seg[metal.00074]
+test seg[pop.00037]
+test seg[reggae.00063]

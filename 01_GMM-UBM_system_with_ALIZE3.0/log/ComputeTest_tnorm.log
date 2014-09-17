@@ -1,0 +1,7 @@
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x9810be0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/xaod.norm.prm

@@ -1,0 +1,9 @@
+
+Compute ZTnorm (and tnorm)
+Computing once the Tnorm distribution for impostor segments
+Take Care, really faster if the score files are sorted!
+[ IndexOutOfBoundsException 0x9e01438 ]
+  message   = ""
+  source file = Object.cpp
+  line number = 146
+  index 0 >= limit 0
